@@ -1,0 +1,7 @@
+id=google
+name=谷歌服务+ For 小米
+version=3.0
+versionCode=3
+author=柚稚的孩纸
+description=为小米手机提供谷歌服务支持
+minMagisk=19000
